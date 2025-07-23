@@ -58,4 +58,4 @@ MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## Disclaimer
 
-This project is for educational purposes. Scraping LinkedIn may violate their
+This project is for educational purposes.

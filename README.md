@@ -1,6 +1,6 @@
 # LinkedIn Job Scraper with Discord Bot Integration
 
-This project scrapes developer job postings from LinkedIn and sends them to a Discord channel using a bot.
+This project scrapes developer job postings from LinkedIn and sends them to a Discord channel using the Discord API.
 
 ## Features
 
